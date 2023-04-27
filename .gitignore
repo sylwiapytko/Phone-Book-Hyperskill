@@ -1,5 +1,8 @@
-Coffee Machine (Kotlin)/task/build/
-Coffee Machine (Kotlin)/task/out
+Phone Book (Kotlin)/task/build/
+Phone Book (Kotlin)//task/out
 Topics/
 .idea
 .gradle
+gradle/
+gradlew
+gradlew.bat
